@@ -24,6 +24,12 @@ This is the second step in the codepath flixster project
  ### App Walkthough GIF
 
  <img src="https://media.giphy.com/media/4fi43gu87FpkieH7s8/giphy.gif" width=300><br>
+ 
+ ### Update with a better representation of it going through the youtube player
+ 
+ My apologies the gif was not long enough to show it working through all of the functions
+ 
+ <img src="https://media.giphy.com/media/E51Cy4bKBlxmicnQx7/giphy.gif" width=300><br>
 
  ### Notes
 
